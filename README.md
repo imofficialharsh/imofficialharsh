@@ -14,7 +14,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 🧑‍💻 Whoami
 
