@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="[https://linkedin.com/in/imofficialharsh](https://linkedin.com/in/imofficialharsh)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-  <a href="mailto:officialh.a.r.h025@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/></a>
-  <a href="[https://imofficialharsh.netlify.app](https://imofficialharsh.netlify.app)"><img src="[https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)" alt="Website"/></a>
+  <a href="https://linkedin.com/in/imofficialharsh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:officialh.a.r.h025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://imofficialharsh.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
 </p>
 
 </div>
@@ -28,6 +28,8 @@
   ],
   "status": "Building impactful products & open for high-growth engineering roles"
 }
+```
+
 ### 🛠️ Technical Skills
 
 #### Frontend & Backend
